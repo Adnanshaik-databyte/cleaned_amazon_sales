@@ -33,6 +33,7 @@ To help business stakeholders explore and understand:
 ---
 
 ## 📐 Dashboard Layout
+The link to the dashboard:-https://app.powerbi.com/groups/me/dashboards/2ab49326-d354-4ca8-9bfb-d3ee9a26a1c2?ctid=54fc4ca8-44ea-4dd1-a1ee-8d18a8571f81&pbi_source=linkShare
 
 ### 🔹 **Page 1: Executive Summary**
 - KPI Cards: Total Revenue, Avg Rating, Avg Price, Review Count
